@@ -1,0 +1,6 @@
+@MemberCalendars_HostAddress = http://localhost:5191
+
+GET {{MemberCalendars_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
